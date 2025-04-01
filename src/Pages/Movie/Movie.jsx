@@ -5,6 +5,7 @@ import Swipe from '../../Component/Swipe/Swipe';
 import Nav2 from '../../Component/Nav2/Nav2'
 import Footer from '../../Component/Footer/Footer';
 
+
 const Movie = () => {
     let thirdmovie=useSelector( function (data) {
         return data.thirdmovie         

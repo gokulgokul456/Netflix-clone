@@ -116,6 +116,15 @@
 }
 
 @media (max-width: 768px) {
+    .sign1{
+        /* background-color: red; */
+        width: auto;
+        height: auto;
+
+        display: flex;
+
+        
+    }
     .bg {
         height: 100vh; 
     }
@@ -126,6 +135,7 @@
     }
     
     .sign1 input {
+        padding: 20px;
         height: 40px; 
     }
 
@@ -138,8 +148,10 @@
     }
 
     .btnn1, .btnn {
+        width: 130px;
         height: 30px; 
-        font-size: 14px; 
+        font-size: 12px; 
+        border-radius: 8px;
     }
 
     .Navv {

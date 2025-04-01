@@ -6,6 +6,7 @@ import Main1 from '../../Component/Main1/Main1'
 import Footer from '../../Component/Footer/Footer'
 import Foot from '../../Component/Foot/Foot'
 
+
 const Enter = () => {
   return (
     <>

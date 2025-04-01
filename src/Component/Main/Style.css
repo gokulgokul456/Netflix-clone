@@ -25,7 +25,7 @@
   }
   .swiper-button-prev{
     color: white;
-    background-color:rgb(51,51,51);
+    background-color:transparent;
     width: 20px;
     height: 120px;
     size: 20px;
@@ -34,7 +34,7 @@
   }
   .swiper-button-next{
     color: white;
-    background-color:rgb(51,51,51);
+    background-color:transparent;
     width: 20px;
     height: 120px;
     size: 20px;

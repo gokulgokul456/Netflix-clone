@@ -63,7 +63,7 @@ const Sign = () => {
         <a href="">Forget Password?</a>
         <div className='sign2'>
             <div className='sign3'>
-                <input type="checkbox"/>
+                <input className='check-box' type="checkbox"/>
                 <span>Remember me</span>
             </div>
             <div className='sign4'>
